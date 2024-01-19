@@ -16,6 +16,10 @@ The repository is organized as follows:
 
 6 "requirements.txt": file with all the used R and Python packages, and the version used. This file was not designed to be used directly as a standard requirements.txt files for Python projects. Please, copy and paste the list of Python packages to another file to install all the requirements, and do an equivalent R code to install all the packages.
 
+7 "Final_Master_Thesis.pdf" is the final version of the thesis, useful to guide an user to obtain the same results with the data of this repository. 
+
+8 "FMT_Presentation.pdf" is a slide set used to present the main ideas in the thesis. 
+
 * Please note that the data corresponding to the text-based indicator is proprietary data of Dr. Argimiro Arratia and is therefore not included in this public repository. 
 
 
