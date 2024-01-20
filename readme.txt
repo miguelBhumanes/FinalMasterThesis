@@ -18,7 +18,7 @@ The repository is organized as follows:
 
 7 "Final_Master_Thesis.pdf" is the final version of the thesis, useful to guide an user to obtain the same results with the data of this repository. 
 
-8 "FMT_Presentation.pdf" is a slide set used to present the main ideas in the thesis. 
+8 "Presentation_TFM.pdf" is a slide set used to present the main ideas in the thesis. 
 
 * Please note that the data corresponding to the text-based indicator is proprietary data of Dr. Argimiro Arratia and is therefore not included in this public repository. 
 
